@@ -1,5 +1,7 @@
 # statistics_python
 
+
+## Q1
 Classificação Intervalar (função cut)
 Tabela de Freqûencias (função cumsum)
 Gráfico de Pareto
